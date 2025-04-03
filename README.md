@@ -1,2 +1,2 @@
 # Knn_implemantation_on_dataset
- development of knn algorithm from scratch 
+Data set file path is implemented as my personal work. Please change directory for you. 
